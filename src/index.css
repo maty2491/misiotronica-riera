@@ -1,0 +1,102 @@
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #292d3e;
+  color: #c792ea;
+}
+
+h1 {
+  font-family: "Alegreya Sans SC", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.1rem;
+}
+
+h3 {
+  font-family: "Overpass", sans-serif;
+  font-size: 1.5rem;
+}
+
+.nav-link:active{
+  color: white !important;
+}
+
+.fuente-a {
+  text-decoration: none;
+  color: white;
+  font-family: "Athiti", sans-serif;
+  font-size: 1.1rem;
+}
+
+.nav-pills li a:hover {
+  background-color: #d0b171;
+  color: #292d3e;
+}
+
+.btn-b {
+  color: white;
+  font-size: 30px;
+  background-color: #c792ea;
+}
+
+.btn-a{
+  color: white;
+  font-size: 20px;
+  background-color: #b669e9;
+}
+
+
+.btn-a:hover {
+  background-color: #5468cc;
+  color: #ffffff;
+}
+
+.btn-b:hover {
+  background-color: #5f71ca;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #abadb8;
+  color: #b8c1ec;
+  box-shadow: 0px 0px 10px 0px #c792ea;  
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.card:hover{
+  transform: translateY(-4px);
+  box-shadow: 0px 0px 10px 0px #f8f8f8;
+}
+
+.cards {  
+  box-shadow: 0 4px 8px 0 rgba(253, 253, 253, 0.2);
+  max-width: 240px;
+  margin: auto;
+  text-align: center;
+  border-radius: 0.25rem;
+  
+}
+.title {
+  color: grey;
+  padding: 0.5rem;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+.img-fluid-map{
+  max-width: 100%;
+  height: 300px;
+}

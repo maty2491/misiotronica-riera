@@ -1,0 +1,85 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Gabinete DEEPCOOL",
+            "categoria": "Gabinetes",
+            "precio": 91000,
+            "stock": 10,
+            "descripcion": "Gabinete Pc Gamer Deepcool Matrexx 70 Add Fans Rgb Templado",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_999934-MLU54977722034_042023-O.webp"
+        },
+        {
+            "id": 2,
+            "nombre": "Memoria DDR4 16GB",
+            "categoria": "Memorias",
+            "precio": 12000,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://mla-s1-p.mlstatic.com/686375-MLA49925056333_052022-F.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Placa de video RTX 3060ti",
+            "categoria": "Placas de video",
+            "precio": 236500,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/854/212/products/placa-de-video-geforce-rtx-3060ti-8gb1-2f501a3c4abe9799b716244917603109-640-0.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Monitor 24'",
+            "categoria": "Monitores",
+            "precio": 50000,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://images.samsung.com/is/image/samsung/p6pim/ar/lf24t350fhlczb/gallery/ar-t35f-388813-lf24t350fhlczb-456991993?$650_519_PNG$"
+        },
+        {
+            "id": 5,
+            "nombre": "Cargador de pilas AAA",
+            "categoria": "Elecotrónica",
+            "precio": 1500,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "data:image/jpeg;base64,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BERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERA//2Q=="
+        },
+        {
+            "id": 6,
+            "nombre": "Disco SSD 240GB",
+            "categoria": "Discos",
+            "precio": 25500,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxou8hd0aUUzaUxGemhS3tLwBxE4Iz6Z6Uw&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "nombre": "Disco SSD 500GB",
+            "categoria": "Discos",
+            "precio": 32500,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2021/12/e7039ee4-4791-4ab0-9088-ae4246b93352.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Monitor Samsung Gamer 27'",
+            "categoria": "Monitores",
+            "precio": 168900,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://images.samsung.com/is/image/samsung/p6pim/ar/ls27ag30anlxzb/gallery/ar-odyssey-g3-g30a-ls27ag30anlxzb-533464745?$650_519_PNG$"
+        },
+        {
+            "id": 9,
+            "nombre": "Memoria RAM DDR4 32GB Kingstone",
+            "categoria": "Memorias",
+            "precio": 42000,
+            "stock": 10,
+            "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat nam molestias rerum iste ratione!",
+            "imagen": "https://mla-s1-p.mlstatic.com/886473-MLA48832682940_012022-F.jpg"
+        }
+    ]
+}
