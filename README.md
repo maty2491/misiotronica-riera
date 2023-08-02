@@ -19,3 +19,5 @@ web.
 Nota: Evitar subir la carpeta node_modules al repositorio, la excepción debe realizarse mediante el
 archivo .gitignore; adicionalmente, la revisión de archivos agregados antes de cambios locales es una
 buena práctica.
+
+----
