@@ -6,9 +6,9 @@ const Header = () => {
         <>
             <nav className="navbar ">
                 <div className="container">
-                    <a className="navbar-brand">
+                    <div className="navbar-brand">
                     <Link className="text-white " to={"/"}><img src={logo} width="90" height="94"/> </Link> 
-                    </a>
+                    </div>
                         <h3>Misiotrónica SRL</h3>
                 </div>
             </nav>        

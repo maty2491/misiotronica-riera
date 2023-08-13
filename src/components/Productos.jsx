@@ -28,8 +28,7 @@ const Productos = () => {
       <div className="container">
         <h1 className="text-center mb-3">Lista de productos</h1>
 
-        <div className="input-group mb-5">
-          
+        <div className="input-group mb-5">          
             <input type="search"
               id="form1"
               className="form-control"
@@ -42,8 +41,8 @@ const Productos = () => {
         </div>
         <div className="row">
           {FiltroProd.map((producto) => (
-            <div className="col-lg-4 col-sm-12 col-md-12 mb-4">
-              <div className="card text-center h-100" key={producto.id}>
+            <div className="col-lg-4 col-sm-12 col-md-12 mb-4" key={producto.id}>
+              <div className="card text-center h-100" >
                 <img src={producto.imagen} className="img-fluid d-block p-2" />
                 <div className="card-body ">
                   <h5 className="card-title text-white">{producto.nombre}</h5>
